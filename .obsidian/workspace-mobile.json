@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Machine Learning/Syllabus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Syllabus"
             }
           }
         ]
@@ -112,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Machine Learning/Syllabus.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,6 +169,8 @@
   },
   "active": "edd7a2a8ab215626",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "Machine Learning/Syllabus.md",
+    "Machine Learning"
   ]
 }
