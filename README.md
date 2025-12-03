@@ -1,6 +1,6 @@
 # DTSC
 
-### Use the below section for our notes!’
+### Use the below section for our notes!
 
 Hello…
 
