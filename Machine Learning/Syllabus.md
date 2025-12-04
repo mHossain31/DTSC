@@ -6,7 +6,7 @@
 
 ## Course Overview
 
-This syllabus covers statistical foundations and machine learning concepts, providing a structured path from probability and statistics fundamentals through advanced ML algorithms and applications.
+This syllabus covers statistical foundations and p  machine learning concepts, providing a structured path from probability and statistics fundamentals through advanced ML algorithms and applications.
 
 -----
 
